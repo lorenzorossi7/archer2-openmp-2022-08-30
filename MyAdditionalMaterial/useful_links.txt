@@ -1,0 +1,3 @@
+Link to course web-page with video lectures
+
+https://www.archer2.ac.uk/training/courses/220830-openmp/
